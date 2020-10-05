@@ -1,10 +1,10 @@
-public class VariableExamples {
+public class Tarea1 {
     public static void main(String[] args) {
 
 
-        short shortNumber = 1402;
+        short shortNumber = Short.MAX_VALUE;
         long longNumber = 651456776000L;
-        double extendedNumber = 45696678615198.643;
+        double extendedNumber = 45696678618.643;
 
         System.out.println(shortNumber);
         System.out.println(longNumber);
